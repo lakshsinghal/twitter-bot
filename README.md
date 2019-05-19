@@ -1,4 +1,4 @@
-#Twitter Bot
+Twitter Bot
 
 A Twitter bot using Tweepy library in Python.
 
